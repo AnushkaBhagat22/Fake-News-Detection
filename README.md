@@ -9,4 +9,5 @@ https://www.kaggle.com/datasets/rahulogoel/isot-fake-news-dataset/data
 1. Download dataset from Kaggle.
 2. Click on Open in Colab.
 3. Upload Fake.csv and True.csv dataset to Colab.
-4. Run the notebook sequentially.
+4. Upload of the dataset will take some time.
+5. Run the notebook sequentially.
